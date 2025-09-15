@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "franca-lunga",
+  "private_key_id": "620b4f2766f6da550b1277122ad73a59693570e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX7uPZrJX0c9sV\ntPOfWnD4rLoJxkDXT5TAzaA0KB3ADXxVhhLPPq5//XD8IlNGbNnaFFz2vDQgi7+C\naW9xmNDQ7156NDFyqk6Zw7JKjbgfF7lUx3QYssJ7Qj4RKrQEwGTRUQUnP0+lWom4\n6I9CtJ7s7zKrBzrLNilUaVfO3HQEFOlqiO3RiK1rqvtgDX5ue2h55aFI98SHcW9D\nFTN/aUy2k0FmJOf6SQJj8mufOMsa2lDRY5ew4WEfkcwqBifPVSDV3amExYzxh0eZ\nRMPdzv2W1Kv7yZ5opWcdJaGswFveDfJqm/qOrTexoet6DxE8KcbxEZtkSD1fDICI\nXjpc3xS9AgMBAAECggEABcyXAth9EssXSjFReTwlAsDpCvV3xSAi/+b5XfRICmwZ\nWlRXRHTSiU0dsmoG/rGp8RKE5+AQJ0veP/aRS+c21TrFwulaF9PbUzAujnzxUbKA\nnvVL/6NXHAhPwSz9mQ7U6k5q4XAftKKLjjTGPxgQ1t9ccj3A5z/GfRPWR62PehZZ\nMjPd42XuI4eEHPtuaAYCCcTPBIJX9dlvynhiuirnpcnIWkz2bJtSCoOqhllolf7A\ngkdjIClyiLX93XDPDRAbXhV4xdDU/nQNpMg3qqRBUjaMSkokmpefrg/CHDUGVasr\nJtr9xvI8q+mTPqergAiXeieHc7xhQrwFqeLDXPqH2wKBgQDGNa4nbng4wfWgRPdJ\ngbpvYmNkhl3iMvjqRFaEzrbrRAdxxY8evbKU5PsSw3VwCG0cTFmnBCVGCfV/JdwP\n/kVOVUxckD83O0V7YIrwbFyPb+uoal+0Y2DQC3TFcJNaQLjo1+bQvwYyRJOFvaMR\nVBvAE/bTZDJxraaP9MlVfiTDWwKBgQDEOyRY24kO1xRp8fEr7HSfQup9tm/gkgm5\nP5wFQ2K6naNIiCUjsmfMH/mLGumwLSdOtxfRGSex3TgnnlHaONElof9hZLpx02sv\nC91Xuu8iOFI3ueU+OJ5dR65IxMi10CSZM+1vnMnoFzhXE/s05aPzpmdsBaDs49+U\nYPuQuRP7xwKBgGU6v0I2QkJClS8QafdpwQzoA/kwQrym6cfDtShI5tULPn4Vtv2t\nRoqS08QGfXEFbKxaNiN9k4fMyEvyywyEAWN7Xu+bYB3WMKtNaEhYH4HGWGYARfa8\nFpLKdw3ra+ZZTdblhWWxWfnMWkegzaqo+S9FQvc9oiG63WmCTF1UenQnAoGBAKYN\nbgqLbAXU1393rx/+Lgn/NDNBSJb+vZ+3Ri3mAgvtDZl5LARzGgbQH/kowwvEifjA\nUzUsVjza+IP+I0HIxqNT3Knr9SIRSCg9oAZ3N5j7lAd4FZd7jfddiwwlCbtg8Td7\ni7bhNLJjw9dcHz15/i1WaTot4SnVAwOqtfaXx2NNAoGABerd2oop8yTJ2Ytct4vH\nYyhZ88Ph69gLMr+qgsBGXvCbBrJ1nH+fq2JQt2zJjfJnDznFaCYJSBXpPMn0QvOH\nZsfSOtn8ad6IXAseeta4O7u+namBp1pQDyUinVzQSvK3YQcWyLVQaXUA3FWx2jTX\nJypqUHL4Nbs6xpbAoQRKPnQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lingua-franca-service-id@franca-lunga.iam.gserviceaccount.com",
+  "client_id": "115564110551112166640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lingua-franca-service-id%40franca-lunga.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
